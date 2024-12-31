@@ -69,3 +69,8 @@ if (marks >= 50) {
     console.log("You failed. Better luck next time.");
   }
 }
+
+
+
+//wap to check if you could vote or not
+
